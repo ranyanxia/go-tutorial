@@ -11,7 +11,7 @@ func main() {
 	log.SetPrefix("greetings: ")
 	log.SetFlags(0)
 
-	message, err := greetings.Hello("")
+	message, err := greetings.Hello("Roy Ran")
 	//if an error was returned, print it to console and exit the program
 	if err != nil {
 		//log.Fatal => print and exit
