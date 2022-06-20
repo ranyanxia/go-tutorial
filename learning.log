@@ -1,1 +1,6 @@
+20220620 - https://go.dev/doc/tutorial/greetings-multiple-people
+- make
+- map (https://go.dev/blog/maps)
+- for range
+- init slice when declare
 20220619 - https://go.dev/doc/tutorial/random-greeting
