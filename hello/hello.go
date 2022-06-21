@@ -25,5 +25,5 @@ func main() {
 	fmt.Println(messages)
 
 	// try map
-	fmt.Println(greetings.TryMap)
+	fmt.Println(greetings.TryMap())
 }

@@ -34,6 +34,7 @@ func Hello(name string) (string, error) {
 	// message = fmt.Sprintf("Hi, %v. Welcome!", name)
 	// := -> declaring & initilizing a var in one line
 	// %v -> format verb
+	// message := fmt.Sprintf(randomFormat(), name)
 	message := fmt.Sprintf(randomFormat(), name)
 
 	//return string
