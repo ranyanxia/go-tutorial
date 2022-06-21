@@ -1,3 +1,8 @@
+20220621
+- unit test (https://go.dev/doc/tutorial/add-a-test)
+- compile / build (https://go.dev/doc/tutorial/compile-install)
+    - go build -> compile it to executable, and it can be run by specifying executable path
+    - go list -f '{{.Target}}' -> discover install path
 20220620 - https://go.dev/doc/tutorial/greetings-multiple-people
 - make
 - map (https://go.dev/blog/maps)
