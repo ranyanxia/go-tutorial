@@ -1,3 +1,10 @@
+20220624 workspace (https://go.dev/doc/tutorial/workspaces)
+- go get  
+- go work init
+- run in workspace
+- go work use 
+- go work edit
+- go work sync
 20220621
 - unit test (https://go.dev/doc/tutorial/add-a-test)
 - compile / build (https://go.dev/doc/tutorial/compile-install)
