@@ -1,3 +1,5 @@
+20220625 Develop REST API via Gin (https://go.dev/doc/tutorial/web-service-gin)
+- web framework Gin (https://gin-gonic.com/docs/introduction/ https://pkg.go.dev/github.com/gin-gonic/gin#section-readme )
 20220624 workspace (https://go.dev/doc/tutorial/workspaces)
 - go get  
 - go work init
