@@ -1,3 +1,9 @@
+20220626 Fuzz (https://go.dev/doc/tutorial/fuzz)
+- Fuzz
+- go test / go test -run=FuzzReverse
+- go test -fuzz=Fuzz
+- go test -v
+= go test -fuzz=Fuzz -fuzztime 30s
 20220626 Generics (https://go.dev/doc/tutorial/generics)
 - declare generic function
 - comparable
