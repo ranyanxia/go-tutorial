@@ -1,5 +1,9 @@
+20220627 wiki (https://go.dev/doc/articles/wiki/)
+- handler
+- function literal
+- closure
 20220626 Fuzz (https://go.dev/doc/tutorial/fuzz)
-- Fuzz
+- Fuzz （Fuzzing can generate inputs to your tests that can catch edge cases and security issues that you may have missed.)
 - go test / go test -run=FuzzReverse
 - go test -fuzz=Fuzz
 - go test -v
